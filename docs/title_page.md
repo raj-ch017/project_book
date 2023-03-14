@@ -1,6 +1,6 @@
 ---
 layout: default
-title: List of projects
+title: Table of contents
 nav_order: 2
 has_children: false
 ---
