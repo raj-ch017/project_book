@@ -1,12 +1,30 @@
 ---
 layout: default
-title: Table of contents
+title: Project List
 nav_order: 2
 has_children: false
 ---
 
-Here's a list of projects:
+Project List
+{: .fw-500}
+{: .fs-8}
+{: .text-center}
 
-1. Introduction to Python Programming
-2. Scripting in Python
-3. Python for Research
+The projects have been arranged in such a manner that the latest project is positioned at the top.
+
+Provided below is a list of projects with brief descriptions for each. You can access the project by clicking the link.
+
+---
+
+<h3>
+<p align = "center">
+Project 1
+</p>
+</h3>
+
+[Fundamentals of Python](https://raj-ch017.github.io/fundamentals-of-python/intro.html) - An introduction to the primitive constructs of the Python programming language.
+
+**Overview** - The topics covered include branching and conditionals, loops, functions, and object-oriented programming, with an emphasizes on the development of computational thinking and problem-solving skills.
+
+
+---
