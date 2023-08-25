@@ -7,12 +7,28 @@ has_children: false
 
 Project List
 {: .fw-500}
-{: .fs-8}
+{: .fs-7}
 {: .text-center}
+
+Provided below is a list of projects with brief descriptions for each. The project can be accessed by clicking on the link.
 
 The projects have been arranged in such a manner that the latest project is positioned at the top.
 
-Provided below is a list of projects with brief descriptions for each. You can access the project by clicking the link.
+
+
+---
+
+<h3>
+<p align = "center">
+Project 2
+</p>
+</h3>
+
+[Python Case Studies](https://raj-ch017.github.io/python-case-studies/intro.html) - Data Analysis using Python.
+
+**Overview** - Topics convered include translation of DNA strand, analysis of books across different languages, clustering and classification, bird migration patterns and network analysis.
+
+---
 
 ---
 
