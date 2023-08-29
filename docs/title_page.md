@@ -24,8 +24,8 @@ The projects have been arranged in such a manner that the latest project is posi
 {: .text-center}
 
 
+**Overview** - Creating a decoding model based on the task-fMRI and personality trait data from the Human Connectome Project (HCP) Dataset.
 
-**Overview** - Creating a decoding model based on the task-fMRI and personality trait data from HCP Dataset.
 ---
 
 [Python Case Studies](https://raj-ch017.github.io/python-case-studies/intro.html)
