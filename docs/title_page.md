@@ -18,29 +18,25 @@ The projects have been arranged in such a manner that the latest project is posi
 
 ---
 
-<h3>
-<p align = "center">
-Project 2
-</p>
-</h3>
+[Python Case Studies](https://raj-ch017.github.io/python-case-studies/intro.html)
+{: .fw-500}
+{: .fs-6}
+{: .text-center}
 
-[Python Case Studies](https://raj-ch017.github.io/python-case-studies/intro.html) - Data Analysis using Python.
 
-**Overview** - Topics convered include translation of DNA strand, analysis of books across different languages, clustering and classification, bird migration patterns and network analysis.
+**Overview** - Topics covered include translation of DNA strands, language analysis, clustering and classification, bird migration patterns and network analysis.
 
 ---
 
 ---
 
-<h3>
-<p align = "center">
-Project 1
-</p>
-</h3>
+[Fundamentals of Python](https://raj-ch017.github.io/fundamentals-of-python/intro.html)
+{: .fs-6}
+{: .fw-500}
+{: .text-center}
 
-[Fundamentals of Python](https://raj-ch017.github.io/fundamentals-of-python/intro.html) - An introduction to the primitive constructs of the Python programming language.
 
-**Overview** - The topics covered include branching and conditionals, loops, functions, and object-oriented programming, with an emphasizes on the development of computational thinking and problem-solving skills.
+**Overview** - The topics covered include branching and conditionals, loops, functions, and object-oriented programming, with an emphasis on the development of computational thinking and problem-solving skills.
 
 
 ---
