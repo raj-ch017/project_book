@@ -18,6 +18,16 @@ The projects have been arranged in such a manner that the latest project is posi
 
 ---
 
+[Predicting Personality Traits From Cognitive Task Performance Through Task-fMRI Analysis](https://github.com/raj-ch017/nma-project/blob/main/README.md)
+{: .fw-500}
+{: .fs-6}
+{: .text-center}
+
+
+
+**Overview** - Creating a decoding model based on the task-fMRI and personality trait data from HCP Dataset.
+---
+
 [Python Case Studies](https://raj-ch017.github.io/python-case-studies/intro.html)
 {: .fw-500}
 {: .fs-6}
