@@ -18,7 +18,7 @@ The projects have been arranged in such a manner that the latest project is posi
 
 ---
 
-[Predicting Personality Traits From Cognitive Task Performance Through Task-fMRI Analysis](https://github.com/raj-ch017/nma-project/blob/main/README.md)
+[Predicting Personality Traits From Cognitive Task Performance Through Task-fMRI Analysis](https://raj-ch017.github.io/nma-project/intro.html)
 {: .fw-500}
 {: .fs-6}
 {: .text-center}
